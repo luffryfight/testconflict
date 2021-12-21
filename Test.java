@@ -4,6 +4,9 @@ class Test{
         System.out.println("hello world!")
         //add sth by t1
         //add 2 by t1
+        //add sth by t2
+        //add 2 by t2
+        //v2
     }
 
 }
